@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Java</string>
+    <string name="ogabekdev">Ogabek Matyakubov</string>
+    <string name="last_seen_recently">last seen recently</string>
+    <string name="contacts">Contacts</string>
+    <string name="search">Search</string>
+</resources>
